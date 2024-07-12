@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CIS 142 Airplane Seating Assignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Fasih Javed CIS 142 Airplane Seating Assignment.cpp
+C:\Users\fasih\source\repos\CIS 142 Airplane Seating Assignment\CIS 142 Airplane Seating Assignment\Fasih Javed CIS 142 Airplane Seating Assignment.cpp(122,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  CIS 142 Airplane Seating Assignment.vcxproj -> C:\Users\fasih\source\repos\CIS 142 Airplane Seating Assignment\x64\Debug\Fasih Javed CIS 142 Airplane Seating Assignment.exe
